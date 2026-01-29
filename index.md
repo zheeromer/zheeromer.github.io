@@ -6,4 +6,4 @@ Cybersecurity graduate studying CompTIA Security+.
 I am developing practical cyber security skills through hands-on labs, security tools, and independent learning.
 
 ## Blog
-- Content coming soon
+- [Learning Web Application Security with Burp Suite and WebGoat](posts/burp-webgoat.md)
