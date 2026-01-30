@@ -10,4 +10,4 @@ I am developing practical cyber security skills through hands-on labs, security 
 
 
 ## Projects
-- [Failed Login Detection (Python)](https://github.com/zheeromer/python-security-scripts)
+- [Failed Login Detection (Python)](https://github.com/zheeromer/python)
