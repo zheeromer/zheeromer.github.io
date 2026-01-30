@@ -7,3 +7,7 @@ I am developing practical cyber security skills through hands-on labs, security 
 
 ## Blog
 - [Learning Web Application Security with Burp Suite and WebGoat](posts/burp-webgoat)
+
+
+## Projects
+- [Failed Login Detection (Python)](https://github.com/zheeromer/python-security-scripts)
